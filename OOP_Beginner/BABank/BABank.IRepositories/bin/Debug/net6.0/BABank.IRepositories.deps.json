@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BABank.IRepositories/1.0.0": {
+        "dependencies": {
+          "BABank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "BABank.IRepositories.dll": {}
+        }
+      },
+      "BABank.BaseEntities/1.0.0": {
+        "dependencies": {
+          "BABank.Shared": "1.0.0"
+        },
+        "runtime": {
+          "BABank.BaseEntities.dll": {}
+        }
+      },
+      "BABank.Entities/1.0.0": {
+        "dependencies": {
+          "BABank.BaseEntities": "1.0.0"
+        },
+        "runtime": {
+          "BABank.Entities.dll": {}
+        }
+      },
+      "BABank.Shared/1.0.0": {
+        "runtime": {
+          "BABank.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BABank.IRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BABank.BaseEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BABank.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BABank.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

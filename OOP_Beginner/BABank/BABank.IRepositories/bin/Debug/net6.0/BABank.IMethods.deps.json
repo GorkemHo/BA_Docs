@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BABank.IMethods/1.0.0": {
+        "dependencies": {
+          "BABank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "BABank.IMethods.dll": {}
+        }
+      },
+      "BABank.BaseEntities/1.0.0": {
+        "runtime": {
+          "BABank.BaseEntities.dll": {}
+        }
+      },
+      "BABank.Entities/1.0.0": {
+        "dependencies": {
+          "BABank.BaseEntities": "1.0.0"
+        },
+        "runtime": {
+          "BABank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BABank.IMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BABank.BaseEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BABank.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

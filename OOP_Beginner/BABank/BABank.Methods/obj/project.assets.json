@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BABank.BaseEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BABank.BaseEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BABank.BaseEntities.dll": {}
+        }
+      },
+      "BABank.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BABank.BaseEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BABank.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BABank.Entities.dll": {}
+        }
+      },
+      "BABank.IMethods/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BABank.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BABank.IMethods.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BABank.IMethods.dll": {}
+        }
+      },
+      "BABank.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BABank.BaseEntities": "1.0.0",
+          "BABank.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BABank.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BABank.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BABank.BaseEntities/1.0.0": {
+      "type": "project",
+      "path": "../BABank.BaseEntities/BABank.BaseEntities.csproj",
+      "msbuildProject": "../BABank.BaseEntities/BABank.BaseEntities.csproj"
+    },
+    "BABank.Entities/1.0.0": {
+      "type": "project",
+      "path": "../BABank.Entities/BABank.Entities.csproj",
+      "msbuildProject": "../BABank.Entities/BABank.Entities.csproj"
+    },
+    "BABank.IMethods/1.0.0": {
+      "type": "project",
+      "path": "../BABank.IRepositories/BABank.IMethods.csproj",
+      "msbuildProject": "../BABank.IRepositories/BABank.IMethods.csproj"
+    },
+    "BABank.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BABank.Shared/BABank.Shared.csproj",
+      "msbuildProject": "../BABank.Shared/BABank.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BABank.IMethods >= 1.0.0",
+      "BABank.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\90506\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Neşet Hoca\\OOP Örnekleri\\BABank\\BABank.Methods\\BABank.Methods.csproj",
+      "projectName": "BABank.Methods",
+      "projectPath": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Neşet Hoca\\OOP Örnekleri\\BABank\\BABank.Methods\\BABank.Methods.csproj",
+      "packagesPath": "C:\\Users\\90506\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Neşet Hoca\\OOP Örnekleri\\BABank\\BABank.Methods\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\90506\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\90506\\Desktop\\Bilge Adam\\Neşet Hoca\\OOP Örnekleri\\BABank\\BABank.IRepositories\\BABank.IMethods.csproj": {
+              "projectPath": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Neşet Hoca\\OOP Örnekleri\\BABank\\BABank.IRepositories\\BABank.IMethods.csproj"
+            },
+            "C:\\Users\\90506\\Desktop\\Bilge Adam\\Neşet Hoca\\OOP Örnekleri\\BABank\\BABank.Shared\\BABank.Shared.csproj": {
+              "projectPath": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Neşet Hoca\\OOP Örnekleri\\BABank\\BABank.Shared\\BABank.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
