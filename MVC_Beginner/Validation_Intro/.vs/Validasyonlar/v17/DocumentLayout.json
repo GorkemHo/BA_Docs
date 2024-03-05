@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\validationclasses\\passwordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\validationclasses\\passwordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\validationclasses\\usernamevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\validationclasses\\usernamevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\validationclasses\\addressvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\validationclasses\\addressvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\models\\entities\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\models\\entities\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\models\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\models\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\validationclasses\\birthdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\validationclasses\\birthdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|c:\\users\\90506\\desktop\\bilge adam\\ne\u015Fet hoca\\mvc\\validasyonlar\\validasyonlar\\validationclasses\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A052A-61E8-4159-B252-7CD524F065FC}|Validasyonlar\\Validasyonlar.csproj|solutionrelative:validasyonlar\\validationclasses\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Validasyonlar\\Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:26:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Validasyonlar\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Validasyonlar\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T13:07:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Validasyonlar\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:01:16.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressValidation.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\AddressValidation.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\ValidationClasses\\AddressValidation.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\AddressValidation.cs",
+              "RelativeToolTip": "Validasyonlar\\ValidationClasses\\AddressValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:52:36.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordValidation.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\PasswordValidation.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\ValidationClasses\\PasswordValidation.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\PasswordValidation.cs",
+              "RelativeToolTip": "Validasyonlar\\ValidationClasses\\PasswordValidation.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:32:51.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserNameValidation.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\UserNameValidation.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\ValidationClasses\\UserNameValidation.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\UserNameValidation.cs",
+              "RelativeToolTip": "Validasyonlar\\ValidationClasses\\UserNameValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:10:17.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BirthDateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\BirthDateValidation.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\ValidationClasses\\BirthDateValidation.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\BirthDateValidation.cs",
+              "RelativeToolTip": "Validasyonlar\\ValidationClasses\\BirthDateValidation.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:37:10.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailValidation.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\EmailValidation.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\ValidationClasses\\EmailValidation.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\ValidationClasses\\EmailValidation.cs",
+              "RelativeToolTip": "Validasyonlar\\ValidationClasses\\EmailValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:07:09.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Models\\Entities\\Register.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\Models\\Entities\\Register.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Models\\Entities\\Register.cs",
+              "RelativeToolTip": "Validasyonlar\\Models\\Entities\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:26:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "Validasyonlar\\Models\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:26:50.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Validasyonlar\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Validasyonlar\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T13:15:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Models\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Validasyonlar\\Models\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Bilge Adam\\Ne\u015Fet Hoca\\MVC\\Validasyonlar\\Validasyonlar\\Models\\Entities\\Address.cs",
+              "RelativeToolTip": "Validasyonlar\\Models\\Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:26:49.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
